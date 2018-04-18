@@ -1,0 +1,19 @@
+# Eclipse specific files
+.settings/
+.classpath
+.project
+bin/
+build/
+
+#Various temporary files created by editors
+*~
+
+# Temp log files
+logs/
+
+# Gradle specific files
+.gradle/
+
+# MAC Related Files
+.DS_Store
+
